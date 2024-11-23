@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics]
+"BorderWidth"="-60"
+"CaptionHeight"="-330"
+"CaptionWidth"="-330"
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuHeight"="-285"
+"MenuWidth"="-285"
+"MinAnimate"="1"
+"PaddedBorderWidth"="-60"
+"ScrollHeight"="-255"
+"Shell Icon Size"="32"
+"SmCaptionHeight"="-330"
+"SmCaptionWidth"="-330"
