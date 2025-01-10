@@ -1,5 +1,5 @@
 # Define the group name
-$group = "AZ_SP_FS_PUBLIC BIL BIL Supply Planning_RW"
+$group = "group name"
 
 # Retrieve group members, filter out disabled users, and export the data to a CSV file
 Get-ADGroupMember -Identity $group |   
